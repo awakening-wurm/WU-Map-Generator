@@ -1,0 +1,7 @@
+
+.wurm/dist/java/*
+.wurm/dist/mods/awakening/awakening.jar
+.idea/*
+*.iml
+out/*
+
